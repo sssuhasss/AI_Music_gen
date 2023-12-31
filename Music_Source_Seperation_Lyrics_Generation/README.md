@@ -10,10 +10,7 @@ Music Source Separation & Lyrics Generation is a Python tool designed to process
 - **Customizable Output**: Generates raw lyrics text and optionally subtitle files with timestamps.
 
 ## Requirements
-- Python 3.x
-- `spleeter`
-- `auto_subtitle` (Ensure it supports the required languages)
-- ffmpeg (for audio processing by `spleeter`)
+- Refer requirements.txt
 
 ## Installation
 1. Clone the repository or download the source code.
